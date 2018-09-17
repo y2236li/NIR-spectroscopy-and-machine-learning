@@ -11,4 +11,4 @@ Due to the poor data collection at the beginning of the research, the overall ac
 
 The paper about the model construction is publishing soon. To see more details, please keep following the update of this file. The access information will be attached later.
 
-Note: our last research period ended before neural network and genetic algorithm are added into the model construction. After the next research period, those features will be added, and another paper will be released to explain the details.
+Note: our last research period ended before neural network and genetic algorithm are programmed into the model construction. After the next research period, those features will be added, and another paper will be released to explain the details.
