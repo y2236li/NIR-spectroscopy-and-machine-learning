@@ -10,3 +10,5 @@ The project in the paper aims to predict the sweetness of navel oranges by analy
 Due to the poor data collection at the beginning of the research, the overall accuracy is relatively low. However, the improving pattern showing in most charts proved the reliability of the model optimization process. Meanwhile, we used a better database from another research project in the model and the prediction became much more accurate. This fact comfirmed that the low accuracy was caused by the poor data collection.
 
 The paper about the model construction is publishing soon. To see more details, please keep following the update of this file. The access information will be attached later.
+
+Note: our last research period ended before neural network and genetic algorithm are added into the model construction. After the next research period, those features will be added, and another paper will be released to explain the details.
